@@ -1,0 +1,9 @@
+{
+	"ip":"ForSelnetwork.aternos.me",
+	"port": 27816,
+	"name": "afkbot1",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/register 16345",
+	"login-cmd":"/login 16345"
+}
